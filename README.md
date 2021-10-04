@@ -1,4 +1,4 @@
-<h1 align="center">🙋 Hi, I'm </h1>
+<h1 align="center">🙋 Hi, I'm Ashish Nakrani</h1>
 <h3 align="center">💻 A passionate Digital Communication Professional from Surat, Gujrat</h3>
 
 - 🔭 I work at <a href="https://www.code-sherpas.rocks/" target="_blank">Code Sherpas</a> as Head of Digital Communications.
